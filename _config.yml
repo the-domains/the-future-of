@@ -1,7 +1,7 @@
 name: The Future Of
 favicon: null
-layout_spectrum: 0.9753969009034336
-typography_spectrum: 0.47613984323106706
+layout_spectrum: 0.45417
+typography_spectrum: 0.76311
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6914575616829097
-  lightness: 0.03563132812269032
-  saturation: 0.24650059081614017
-  rhythmicContrast: 0.1304498529061675
+    - '#effcfc'
+    - '#b4d6da'
+    - '#95bec6'
+    - '#77a3aa'
+    - '#5d838c'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
