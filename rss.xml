@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Future Of Podcast]]></title>
-        <description><![CDATA[The Future Of Podcast]]></description>
+        <title><![CDATA[The Future Of]]></title>
+        <description><![CDATA[The Future Of]]></description>
         <link>https://thegrid.ai/the-future-of/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 18:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 12:20:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-future-of/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Future Of]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/the-future-of/the-future-of/index.html</link>
             <guid isPermaLink="false">4b337aec-241b-4f79-a733-84c497e1b1fc</guid>
             <pubDate>Thu, 04 Feb 2016 18:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future Of]]></title>
-            <description><![CDATA[<article><h1>The Future Of</h1><p>The Future Of is a weekly podcast about the future.</p></article>]]></description>
-            <link>https://thegrid.ai/the-future-of/the-future-of/index.html</link>
-            <guid isPermaLink="false">45164e35-0c39-4e19-b418-ed952d8d107a</guid>
-            <pubDate>Thu, 04 Feb 2016 18:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
