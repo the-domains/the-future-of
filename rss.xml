@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Future Of]]></title>
+        <description><![CDATA[The Future Of]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 12:27:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drone Sports]]></title>
+            <description><![CDATA[<article><h1>Drone Sports</h1><p>Car racing leagues like NASCAR get lots of slack for being boring. For outsiders, it’s tough to see the fun in watching people drive in circles again and again — even if they’re doing it at 160 miles an hour within an inch of one another.</p></article>]]></description>
+            <link>undefineddrone-sports/index.html</link>
+            <guid isPermaLink="false">6628adde-037f-40d2-9f4c-902264eea92b</guid>
+            <pubDate>Tue, 22 Mar 2016 12:26:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
